@@ -114,6 +114,7 @@ Instead, 1rem = 1em = 16px */
   /* Mobile */
   .btn-mobile-nav {
     display: block;
+    z-index: 1000;
   }
 
   .main-nav {
@@ -146,7 +147,7 @@ Instead, 1rem = 1em = 16px */
   .nav-open .main-nav {
     opacity: 1;
     pointer-events: auto;
-    visibility: hidden;
+    visibility: visible;
     transform: translateX(0);
   }
 
