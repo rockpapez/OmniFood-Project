@@ -1,2 +1,2 @@
 # OmniFood-Project
-Bigger project from Udemy course. Technologies used: HTML, CSS and a little bit of JavaScript
+Bigger project I was working on during the Udemy course. Technologies used: HTML, CSS and JavaScript.
